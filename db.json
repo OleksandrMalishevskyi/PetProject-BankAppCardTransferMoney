@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Lucian Brit",
+      "balance": 8438,
+      "card": 1234567812345678
+    },
+    {
+      "id": "2",
+      "name": "Lilian",
+      "balance": 1351,
+      "card": 1234123412341234
+    },
+    {
+      "id": "3",
+      "name": "Alex Tiger",
+      "balance": 9876,
+      "card": 9876987698769876
+    }
+  ]
+}
